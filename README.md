@@ -9,7 +9,7 @@ This app allows users to:
 - View notes even after refreshing the tab
 - Delete any notepad individually
 
-> ⚡ Changes are saved locally and visible under `Application > LocalStorage` in browser DevTools (while using Live Server in VS Code).
+⚡ Changes are saved locally and visible under `Application > LocalStorage` in browser DevTools (while using Live Server in VS Code).
 
 ## 🚀 Features
 
